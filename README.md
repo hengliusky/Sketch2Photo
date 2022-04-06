@@ -33,10 +33,7 @@ Bag images: [edges2handbags](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets
 ## Training && Testing
 
 ### Testing
-
-Pretrained models: [Generator, Sketch2Photo](https://pan.baidu.com/s/1ehAti2XAPwEkKi4-8VywIQ). extraction code is <strong>ddrz</strong> <br> 
-Please download them and put them into the floder ./checkpoint/.  <br>
-please put the test image into the floder ./test/sketch/
+Please download the models [Generator, Sketch2Photo extraction code is <strong>ddrz</strong> <br>](https://pan.baidu.com/s/1ehAti2XAPwEkKi4-8VywIQ).and put them into the floder ./checkpoint/. In addition, please put the test images into the floder ./test/sketch/
 
 
 `python test.py`
