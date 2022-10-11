@@ -1,0 +1,2 @@
+guide decoder
+guide是直接fake 和 real 做L1 loss，没有使用中间的特征
